@@ -1,4 +1,4 @@
-# Real Estate Prices Prediction
+# Real Estate Prices Prediction using Machine Learning
 
 ## By Sashank Bommadevara
 
