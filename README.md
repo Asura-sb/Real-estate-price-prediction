@@ -1,11 +1,6 @@
----
-title: |
-  ***[Real Estate Prices Prediction]{.underline}***
----
+# Real Estate Prices Prediction
 
-# By Sashank Bommadevara
-
-***[INTRODUCTION]{.underline}***
+## By Sashank Bommadevara
 
 # Introduction:
 
